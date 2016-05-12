@@ -1,0 +1,14 @@
+{
+  "name": "ng.daterangepicker.en",
+  "homepage": "https://github.com/pragnesh/ng.daterangepicker",
+  "authors": [
+    "pragnesh <pg.radadia@gmail.com>"
+  ],
+  "description": "english version of ng.daterangepicker",
+  "main": "ng-daterange-1.0.1.js",
+  "keywords": [
+    "daterangepicker",
+    "angular"
+  ],
+  "license": "GPL-2.0"
+}
